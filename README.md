@@ -1,6 +1,6 @@
-# BookTress - Secure Salon Scheduling Platform   💇‍♀️💅
+# Scheduler Platform   💇‍♀️💅
 
-**BookTress - Secure Salon Scheduling Platform ** is a modern full-stack salon and spa appointment booking application designed for users to easily find, book, and manage salon services. It offers real-time scheduling, service listings, admin dashboards, and responsive UI for both customers and service providers.
+**Scheduler Platform - Secure Salon Scheduling Platform ** is a modern full-stack salon and spa appointment booking application designed for users to easily find, book, and manage salon services. It offers real-time scheduling, service listings, admin dashboards, and responsive UI for both customers and service providers.
 
 ---
 
